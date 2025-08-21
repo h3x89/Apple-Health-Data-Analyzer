@@ -1,0 +1,36 @@
+{
+  "period": "From YYYY-MM-DD to present",
+  "total_records": 500000,
+  "total_workouts": 100,
+  "record_types": {
+    "HKQuantityTypeIdentifierHeartRate": 100000,
+    "HKQuantityTypeIdentifierStepCount": 10000,
+    "HKQuantityTypeIdentifierActiveEnergyBurned": 130000
+  },
+  "heart_rate_summary": {
+    "total_readings": 95000,
+    "average": 75.5,
+    "min": 45.0,
+    "max": 180.0
+  },
+  "step_summary": {
+    "total_days": 120,
+    "total_steps": 1400000,
+    "average_daily": 11666
+  },
+  "energy_summary": {
+    "active_energy": {
+      "total": 80000.0,
+      "average": 666.7
+    }
+  },
+  "workout_summary": {
+    "total_workouts": 100,
+    "workout_types": {
+      "HKWorkoutActivityTypeCycling": 45,
+      "HKWorkoutActivityTypeInlineSkating": 25,
+      "HKWorkoutActivityTypeWalking": 30
+    },
+    "total_duration_minutes": 6000.0
+  }
+}

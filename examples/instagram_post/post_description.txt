@@ -1,0 +1,27 @@
+📊 CALCULATION DETAILS:
+
+💻 Data from Apple Health Export
+📱 Apple Watch + iPhone
+📅 Custom date range
+
+🔍 DATA ACCURACY:
+
+👟 STEPS (XXX,XXX):
+Removed steps from cycling and skating workouts to avoid double counting. Apple Watch may count false steps while driving or working at computer.
+
+🚴 DISTANCES (XXX+XXX+XX km):
+Real data from workouts (Apple Watch GPS, accuracy ~3-5m)
+
+🔥 CALORIES (XX,XXX kcal):
+Real data from energy records (accuracy ~90-95%)
+
+⛰️ ELEVATION (X,XXX m):
+Data from GPX routes (Apple Watch barometer, accuracy ~1-3m)
+
+⚖️ WEIGHT (improvement):
+Direct scale measurement - most reliable data
+
+💡 WHY THESE CALCULATIONS:
+Apple Watch counts steps even during cycling/skating. Removed these steps because distance is already measured by GPS. All data represents actual workout measurements.
+
+#applewatch #healthdata #fitness #motivation #cycling #skating #walking #calories #steps #elevation #progress #data #accuracy

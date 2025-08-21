@@ -1,0 +1,28 @@
+# Apple Health Data Analyzer Dependencies
+
+# XML parsing (built-in)
+# xml.etree.ElementTree
+
+# Date and time handling (built-in)
+# datetime
+
+# Mathematical calculations (built-in)
+# math
+
+# File operations (built-in)
+# os
+# glob
+
+# JSON handling (built-in)
+# json
+
+# Optional: For enhanced data analysis and visualization
+# pandas>=1.5.0
+# matplotlib>=3.6.0
+# seaborn>=0.12.0
+
+# Optional: For GPX file processing with additional features
+# gpxpy>=1.5.0
+
+# Note: This project uses primarily Python standard library
+# No external dependencies are required for basic functionality

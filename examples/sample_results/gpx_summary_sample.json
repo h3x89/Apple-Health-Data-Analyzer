@@ -1,0 +1,35 @@
+{
+  "period": "From YYYY-MM-DD to YYYY-MM-DD",
+  "total_routes": 75,
+  "total_distance_km": 650.5,
+  "total_elevation_gain_m": 8500,
+  "total_duration_hours": 45.2,
+  "average_speed_kmh": 14.4,
+  "monthly_summary": {
+    "2025-05": {
+      "routes": 18,
+      "distance_km": 145.2,
+      "elevation_gain_m": 1850
+    },
+    "2025-06": {
+      "routes": 20,
+      "distance_km": 165.8,
+      "elevation_gain_m": 2100
+    },
+    "2025-07": {
+      "routes": 22,
+      "distance_km": 185.3,
+      "elevation_gain_m": 2350
+    },
+    "2025-08": {
+      "routes": 15,
+      "distance_km": 154.2,
+      "elevation_gain_m": 2200
+    }
+  },
+  "route_types": {
+    "cycling": 45,
+    "walking": 20,
+    "running": 10
+  }
+}
