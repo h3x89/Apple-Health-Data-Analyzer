@@ -4,6 +4,8 @@ updates:
     directory: "/"
     schedule:
       interval: "weekly"
+    day: "friday"
+    time: "13:00"
     open-pull-requests-limit: 10
     reviewers:
       - "h3x89"
