@@ -6,7 +6,7 @@ on:
   pull_request:
     branches: [ "main" ]
   schedule:
-    - cron: "30 13 * * 5" # run once a week on Friday at 1:30 PM UTC
+    - cron: "30 11 * * 5" # run once a week on Friday at 1:30 PM UTC
 
 jobs:
   analyze:
