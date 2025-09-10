@@ -5,7 +5,7 @@ updates:
     schedule:
       interval: "weekly"
     day: "friday"
-    time: "11:00"
+    time: "11:00" # UTC - 13:00 Polish time
     open-pull-requests-limit: 10
     reviewers:
       - "h3x89"
